@@ -257,6 +257,15 @@ figure{
   text-align: center;
 }
 
+#video{
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width:100%;
+}
+
 @media(max-width:930px) {
   .nav a{
     font-size: 100%;
